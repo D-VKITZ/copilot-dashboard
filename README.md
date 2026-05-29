@@ -71,3 +71,14 @@ open copilot-dashboard/index.html
 <sub>DEVKiTZ - Made with love by 777 - 2026</sub><br>
 <sub>devkitz.eu | dkz.app | github.com/D-VKITZ</sub>
 </p>
+
+---
+
+## Documentation
+
+| Resource | Link |
+|:---------|:-----|
+| Rules | [D-VKITZ/KERN/RULES.md](https://github.com/D-VKITZ/KERN/blob/main/RULES.md) |
+| Patterns | [D-VKITZ/KERN/PATTERNS.md](https://github.com/D-VKITZ/KERN/blob/main/PATTERNS.md) |
+| Playbook | [D-VKITZ/KERN/PLAYBOOK.md](https://github.com/D-VKITZ/KERN/blob/main/PLAYBOOK.md) |
+| llms.txt | [D-VKITZ/KERN/llms.txt](https://github.com/D-VKITZ/KERN/blob/main/llms.txt) |
